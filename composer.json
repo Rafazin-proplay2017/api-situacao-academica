@@ -1,0 +1,11 @@
+
+{
+    "name": "rafael/api-situacao-academica",
+    "description": "API REST para gerenciamento de situacoes academicas de estudantes",
+    "type": "project",
+    "license": "proprietary",
+    "require": {
+        "slim/slim": "^4.0",
+        "slim/psr7": "^1.7"
+    }
+}
